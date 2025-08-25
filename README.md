@@ -9,10 +9,10 @@
 
 2. Para executar a quebra com paralelismo:
 ```bash
-    paralelismo_quebra_senha
+    ./paralelismo_quebra_senha
 ```
 
 3. Para executar a quebra de forma sequencial:
 ```bash
-    sequencial_quebra_senha
+    ./sequencial_quebra_senha
 ```
