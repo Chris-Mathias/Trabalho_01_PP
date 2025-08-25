@@ -16,3 +16,8 @@
 ```bash
     ./sequencial_quebra_senha
 ```
+
+4. Para limpar os executáveis e as tabelas geradas:
+```bash
+    make clean
+```
